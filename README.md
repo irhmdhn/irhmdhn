@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ihwannudin-rahmadhani-097776288/" target="_blank">
+  <a href="https://www.linkedin.com/in/irhmdhn/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/irhmdhn.me/" target="_blank">
@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm <strong>Ihwannudin Rahmadhani</strong> from Gunungkidul, Yogyakarta, Indonesia<br><br>- 🔭 I graduated from Informatics Engineering at <a href="https://home.amikom.ac.id/" target="_blank"><strong>AMIKOM University of Yogyakarta</strong></a><br>- 📚 My major is <strong>Informatics Engineering</strong> (Teknik Informatika)<br>- 👀 I’m interested in <strong>Web Development</strong></p>
+<p align="left">I'm <strong>Ihwannudin Rahmadhani</strong> from Gunungkidul, Yogyakarta, Indonesia<br><br>- 🔭 I graduated from <a href="https://home.amikom.ac.id/" target="_blank"><strong>AMIKOM University of Yogyakarta</strong></a><br>- 📚 My major is <strong>Informatics Engineering</strong> (Teknik Informatika)<br>- 👀 I’m interested in <strong>Web Development</strong></p>
 
 ###
 
